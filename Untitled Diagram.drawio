@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T13:10:54.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="15.3.1" etag="Zt9BDgTVGYq0gfao31Zz" type="github"><diagram id="j1MsLNccpvBMyTGqbD6c">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-24T14:22:31.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="s0YJGzkgtUDwjMsiDhpj" version="15.3.1" type="github">
+  <diagram id="j1MsLNccpvBMyTGqbD6c" name="Page-1">
+    <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="De6VnWq7YusVPgtiZOgC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-10" width="680" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="De6VnWq7YusVPgtiZOgC-1" value="导航" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="20" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="De6VnWq7YusVPgtiZOgC-2" value="轮播图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="De6VnWq7YusVPgtiZOgC-5" value="music" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="De6VnWq7YusVPgtiZOgC-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="De6VnWq7YusVPgtiZOgC-7" value="留言板·" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="De6VnWq7YusVPgtiZOgC-8" value="头像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="De6VnWq7YusVPgtiZOgC-9" value="个人说明介绍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="230" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="De6VnWq7YusVPgtiZOgC-17" value="个人履历" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="100" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="De6VnWq7YusVPgtiZOgC-20" value="恐龙小游戏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="330" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="De6VnWq7YusVPgtiZOgC-21" value="网页特效&lt;br&gt;例如闪星星" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
